@@ -1,29 +1,17 @@
-# __proto__
+# crude-test
 
-> Clone, edit, hack. An opinionated boilerplate for Node Libraries.
+> API Test Helpers for [crude](https://github.com/thanpolas/crude).
 
-[![Build Status](https://secure.travis-ci.org/thanpolas/__proto__.png?branch=master)](http://travis-ci.org/thanpolas/__proto__)
-
-To use, simply Clone, Enter directory, delete `.git` folder and start over:
-
-```shell
-git clone git@github.com:thanpolas/__proto__.git
-cd __proto__
-rm -rf .git
-git init
-git add .
-git commit "Boot!"
-```
-
-Boilerplate OSS follows...
+[![Build Status](https://secure.travis-ci.org/thanpolas/crude-test.png?branch=master)](http://travis-ci.org/thanpolas/crude-test)
 
 ## Install
 
 Install the module using NPM:
 
 ```
-npm install YADDAYADDA --save
+npm install crude-test --save
 ```
+
 ## <a name='TOC'>Table of Contents</a>
 
 1. [Overview](#overview)
@@ -31,11 +19,16 @@ npm install YADDAYADDA --save
 
 ## Overview
 
-Lorem ipsum trololol.
+crude-test provides a convenient, fast and effective way to test your endpoints that were created using the [crude](https://github.com/thanpolas/crude) package. Usage is pretty straighforward:
+
+```js
+
+
+```
 
 ## API
 
-One more to go back without onez has together we know!
+
 
 **[[⬆]](#TOC)**
 
