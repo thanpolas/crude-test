@@ -1,6 +1,6 @@
 {
   "name": "crude-test",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "./lib/crude-test-base",
   "description": "API Test Helpers for crude.",
   "homepage": "https://github.com/thanpolas/crude-test",
