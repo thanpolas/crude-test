@@ -34,7 +34,7 @@ crude-test provides a convenient, fast and effective way to test your endpoints 
 
 ## Release History
 
-- **v0.0.1**, *TBD*
+- **v0.0.1**, *04 Jul 2014*
     - Big Bang
 
 ## License
